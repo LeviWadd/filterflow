@@ -27,4 +27,4 @@ f.add_step("Removing numbers >= 40:", len(evens_less_than_40))
 f.plot()
 ```
 
-!['img'](/images/example.JPG)
+!['Example image'](https://github.com/LeviWadd/process_flow/raw/master/images/example.JPG)
